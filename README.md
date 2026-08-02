@@ -8,11 +8,11 @@
 [![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?logo=swagger&logoColor=black)](https://your-backend.onrender.com/api/docs/)
 [![ReDoc](https://img.shields.io/badge/ReDoc-Docs-8A2BE2?logo=readthedocs&logoColor=white)](https://your-backend.onrender.com/api/redoc/)
 
-> 🌐 **Live API** — [your-backend.onrender.com](https://your-backend.onrender.com) 
+> 🌐 **Live API** — [https://mahbere-maryam-backend.vercel.app/api/](https://mahbere-maryam-backend.vercel.app/api/) 
 
-> 📚 **Swagger UI** — [/api/docs/](https://your-backend.onrender.com/api/docs/) 
+> 📚 **Swagger UI** — [/api/docs/](https://mahbere-maryam-backend.vercel.app/api/docs/) 
 
-> 📄 **ReDoc** — [/api/redoc/](https://your-backend.onrender.com/api/redoc/)
+> 📄 **ReDoc** — [/api/redoc/](https://mahbere-maryam-backend.vercel.app/api/redoc/)
 
 > A production-ready REST API for managing the **Mahbere Maryam** religious association — members, meetings, attendance, contributions, penalties, expenses, and financial reports.
 
